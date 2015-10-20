@@ -1,0 +1,60 @@
+body {
+  padding-top: 50px;  /* Move body of page below navbar. */
+}
+
+
+h1{
+    font-size: 80px;
+}
+
+.row{
+  padding-top: 120px;
+  text-align: center;
+}
+
+.navbar-nav > li > a, .navbar-brand {
+    padding-top:5px !important; padding-bottom:0 !important;
+    height: 70px;
+    line-height: 60px;
+    color: #cfba6b;
+}
+.navbar {
+    min-height:30px !important;
+    color: #cfba6b;
+}
+
+#uiKit{
+    background-color: #39f;
+    background-image: url('kindred-splashfinal_1920x1080.jpg');
+    color: white;
+    height: 670px;
+    font-family: 'Rosario', sans-serif;
+    padding: 120px 200px 200px 200px;
+}
+
+#Features{
+    background-color: lightblue;
+    background-image: url('bg-default.jpg');
+    color: white;
+    height: 630px;
+}
+
+#GetInvolved {
+  background-color: white;
+  color: black;
+  height: 500px;
+}
+
+#OpenSource{
+    background-color: lightblue;
+    color: white;
+    height: 500px;
+    background-image: url("worlds_tickets_brussels_1920x1080.jpg");
+}
+
+#Footer{
+  background-color: black;
+  color: white;
+  height: 300px;
+}
+
